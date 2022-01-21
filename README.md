@@ -1,7 +1,5 @@
 # Sorting-Visualizer
 A web app to show how all sorting algo works
-Want to see website - click here - https://aryant-tripathi.github.io/Sorting-Visualizer/sorting%20visuliazer%20in%20JS/
-
 A brief Introduction about all sorting algos that are used in this project
 
 1) BUBBLE SORT-
